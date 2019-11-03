@@ -1,0 +1,4 @@
+flask-restful
+flask_cors
+flask_restful_swagger
+jsonschema

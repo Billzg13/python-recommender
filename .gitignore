@@ -1,0 +1,24 @@
+*.pyc
+*.fcstd
+*.dxf
+*.log
+*.fcstd1
+*.stl
+*.ps
+*.svg
+*.jpeg
+*.jpg
+flask_rest_api_v3/output/*
+flask_rest_api_v3/logs/*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
