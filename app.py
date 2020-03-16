@@ -4,6 +4,8 @@ import os
 from flask_cors import CORS, cross_origin
 from flask_restful_swagger import swagger
 from src.controllers.hello_controller import hello_controller
+from src.controllers.quick_search_controller import quick_search_controller
+from src.controllers.advanced_search_controller import advanced_search_controller
 import logging
 from logging.handlers import TimedRotatingFileHandler
 
@@ -21,6 +23,8 @@ logging.basicConfig(level=logging.DEBUG, handlers=[file_handler] )
 ## Actually setup the Api resource routing here
 ##
 api.add_resource(hello_controller, '/hello')
+api.add_resource(quick_search_controller, '/search')
+api.add_resource(advanced_search_controller, '/advanced_search')
 
 
 
