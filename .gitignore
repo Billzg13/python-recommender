@@ -22,3 +22,4 @@ flask_rest_api_v3/logs/*
 # Ignore all local history of files
 .history
 
+logs/*
