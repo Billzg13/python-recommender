@@ -1,0 +1,12 @@
+
+
+
+restaurant 
+lodging
+food
+point_of_interest
+establishment
+bar
+cafe
+health
+gym
