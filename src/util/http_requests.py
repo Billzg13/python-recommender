@@ -21,8 +21,10 @@ def get_recommender_data():
     response.raise_for_status()
   except HTTPError as http_err:
     print(f'HTTP error occurred: {http_err}')  # Python 3.6
+    return 0
   except Exception as err:
     print(f'Other error occurred: {err}')  # Python 3.6
+    return 0
   else:
     print('Success!')
     return response.json()

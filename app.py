@@ -8,6 +8,7 @@ from src.controllers.quick_search_controller import quick_search_controller
 from src.controllers.advanced_search_controller import advanced_search_controller
 import logging
 from logging.handlers import TimedRotatingFileHandler
+import src.util.recommender
 
 
 app = Flask(__name__)
