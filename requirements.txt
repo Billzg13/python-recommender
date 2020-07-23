@@ -3,3 +3,7 @@ flask_cors
 flask_restful_swagger
 jsonschema
 pyyaml
+requests
+pandas
+sklearn
+numpy
