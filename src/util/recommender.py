@@ -5,7 +5,7 @@ import src.util.http_requests as http_requests
 
 #everything that has to do with the recommender will be here
 '''
-genderNumeric: 0 || male 0, female 1
+genderNumeric: 0 || male 0, female 1, other 2
 age: 24 || 13 - 100
 priceLevel: 4 || 0 - 5
 restaurant: 0 - 5
