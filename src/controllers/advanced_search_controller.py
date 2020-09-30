@@ -7,6 +7,7 @@ logger = logging.getLogger(__name__)
 
 class advanced_search_controller(Resource):
     def post(self):
+        print('In post advanced search')
         json_request = request.get_json(force=True)
         predict_data = json_request['advancedSearchRequest']
         ##it goes like this
