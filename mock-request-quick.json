@@ -1,0 +1,21 @@
+{
+  "id": 0, 
+  "user": 
+    {
+      "id": "5f6a06638b794c38a99c8e2e", 
+      "firstName": "bill", 
+      "username": "billzg4@hotmail.com", 
+      "email": "billzg4@hotmail.com", 
+      "password": "$2a$10$zP.X9rPBbQ/mbjeo.KnIA..fm1uufto3jOgBvXMKozv9ZuRXbCGt6", 
+      "roles": [{"id": "5da59858b0c9e8354ec05295", "name": "ROLE_USER"}], 
+      "lastName": "zgantzouris", 
+      "role": "user", 
+      "gender": "male", 
+      "dateCreated": 1600783971728, 
+      "age": 30, 
+      "favourites": [{"placeId": 0, "name": "none", "rating": 4}, {"placeId": 1, "name": "none", "rating": 4}, {"placeId": 2, "name": "none", "rating": 5}, {"placeId": 3, "name": "none", "rating": 4}, {"placeId": 4, "name": "none", "rating": 1}], 
+      "priceLevel": 0, 
+      "types": {"restaurant": 1, "lodging": 1, "food": 1, "pointOfInterest": 1, "establishment": 1, "bar": 1, "cafe": 1, "health": 1, "gym": 1}, 
+      "dob": 631231200000
+    }
+}

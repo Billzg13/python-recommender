@@ -12,6 +12,7 @@ params = {
   "Authentication": "Bearer "+yml_content['jwt_token']
 }
 base_url = yml_content['api_base_url']
+base_url = "http://localhost:8000"
 full_url = base_url + '/api/users/recommender'
 
 def get_recommender_data():
