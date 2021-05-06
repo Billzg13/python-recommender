@@ -5,7 +5,7 @@ from flask_cors import CORS, cross_origin
 from flask_restful_swagger import swagger
 import logging
 from logging.handlers import TimedRotatingFileHandler
-import src.util.recommender
+#import src.util.recommender
 from src.controllers.hello_controller import hello_controller
 from src.controllers.quick_search_controller import quick_search_controller
 from src.controllers.advanced_search_controller import advanced_search_controller
