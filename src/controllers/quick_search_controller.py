@@ -18,8 +18,8 @@ class quick_search_controller(Resource):
         json_data = request.get_json(force=True)
         data_places = func(json_data)
         logger.debug("In action: post quick search controller")
-        print('return this: ')
-        print(data_places)
+        #print('return this: ')
+        #print(data_places)
         return {"result": data_places}
 
 
@@ -57,7 +57,7 @@ def func(json_data):
                     'placeId':1
                 })
     print(result)
-    return data_places
+    return result
 
 
 
