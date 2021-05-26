@@ -4,7 +4,7 @@ import os
 
 ratings_data = pd.read_csv(os.getcwd() +"/data/actual_ratings.csv")
 
-place_names = pd.read_csv(os.getcwd() + "/data/places.csv")
+place_names = pd.read_csv(os.getcwd() + "/data/places.csv", error_bad_lines=False)
 
 # Merge place names and ratings 
 place_data = pd.merge(ratings_data, place_names, on='placeId')
@@ -28,6 +28,8 @@ def predict(place_name):
   place_ratings = user_place_rating[place_name]
   places_like_place = user_place_rating.corrwith(place_ratings)
   corr_place = pd.DataFrame(places_like_place, columns=['Correlation'])
-  corr_place.dropna(inplace=True)
+  corr_place = corr_place.sort_values('Correlation', ascending=False)
   corr_place = corr_place.join(ratings_mean_count['rating_counts'])
-  return corr_place.sort_values('Correlation', ascending=False).head(10).to_dict()
+  corr_place.dropna(inplace=True)
+  return corr_place[corr_place['rating_counts']>15].sort_values('Correlation', ascending=False).head(10).to_dict()
+  #return corr_place.sort_values('Correlation', ascending=False).head(10).to_dict()

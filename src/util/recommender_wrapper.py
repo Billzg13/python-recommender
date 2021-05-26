@@ -1,27 +1,6 @@
-from flask_restful import Resource, fields
-from flask import jsonify, request, make_response
-from flask_restful_swagger import swagger
-import numpy as np
-import pandas as pd
-import json
-#import src.util.recommender_v2 as recommender
-import src.util.recommender_wrapper as recommender
-import logging
-logger = logging.getLogger(__name__)
+import src.util.recommender_v2 as recommender
 
-# print(__name__)
-
-
-class quick_search_controller(Resource):
-    def post(self):
-        print('in quick search')
-        json_data = request.get_json(force=True)
-        data_places = recommender.recommend(json_data)
-        logger.debug("In action: post quick search controller")
-        return {"result": data_places}
-
-'''
-def func(json_data):
+def recommend(json_data):
     data_places = json_data["user"]["favourites"]
     data_user_id = json_data["user"]["id"]
     blacklisted_places = []  # blacklisted places
@@ -43,6 +22,3 @@ def func(json_data):
                 })
                 blacklisted_places.append(item)
     return result    
-'''    
-
-

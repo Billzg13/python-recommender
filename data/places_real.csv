@@ -36,6 +36,7 @@ placeId,title,tags
 34,shopping house,shopping_mall|department_store|restaurant|food|point_of_interest|clothing_store|store|establishment 
 35,beertime,bar|restaurant|food|point_of_interest|establishment 
 36,Archontiko,restaurant|food|point_of_interest|establishment 
+37,TGI Fridays,restaurant|food|point_of_interest|establishment 
 38,Θέατρο Τρένο Στο Ρουφ,cafe|bar|restaurant|food|point_of_interest|establishment 
 39,Jimmy's Coffee Shop,cafe|restaurant|food|point_of_interest|establishment 
 40,Μπακαράτ,bar|point_of_interest|establishment 
@@ -108,7 +109,7 @@ placeId,title,tags
 107,Skordópistē,restaurant|cafe|food|point_of_interest|store|establishment 
 108,Flisvos Cinema (Open Air),movie_theater|cafe|food|point_of_interest|establishment 
 109,Gregóris,cafe|restaurant|food|point_of_interest|store|establishment 
-110,Yard Bistrot and Bar,restaurant|meal_takeaway|cafe|food|point_of_interest|store|establishment 
+110,Yard Bistrot and Bar,Athens,restaurant|meal_takeaway|cafe|food|point_of_interest|store|establishment 
 111,Maiandros restaurant,cafe|restaurant|food|point_of_interest|establishment 
 112,Flocafe,cafe|food|point_of_interest|establishment 
 113,sensei cafe,cafe|food|point_of_interest|establishment 
@@ -126,5 +127,5 @@ placeId,title,tags
 125,GREGORY MIKROGEVMATA,cafe|restaurant|food|point_of_interest|establishment 
 126,yassou cafe,cafe|food|point_of_interest|establishment 
 127,Moreno,cafe|food|point_of_interest|store|establishment 
+128,Yard Bistrot and Bar,Athens,restaurant|meal_takeaway|cafe|food|point_of_interest|store|establishment 
 129,Maiandros restaurant,cafe|restaurant|food|point_of_interest|establishment 
-
