@@ -36,13 +36,11 @@ def recommend_content_based(json_data):
     
     for place in data_places:
         prediction = recommender_content.predict(place['name'])
-        #print('prediction: ')
-        #print(prediction)
         for item in prediction:
-            if item not in blacklisted_places:
+            if item['title'] not in blacklisted_places:
                 result.append({
-                    'name': item,
-                    'correlation': 1,
+                    'name': item['title'],
+                    'correlation': item['correlation'],
                     'placeId': 9999,
                     'correlationWith': place['placeId']
                 })
