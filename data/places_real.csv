@@ -1,48 +1,48 @@
-placeId,title,tags
-0,Meliá Athens,lodging|restaurant|food|point_of_interest|establishment 
-1,POSEIDON ATHENS HOTEL,lodging|restaurant|food|point_of_interest|establishment 
-2,Radisson Blu Park Hotel Athens,lodging|bar|restaurant|food|gym|health|point_of_interest|establishment 
-3,The Athenian Callirhoe Exclusive Hotel,cafe|lodging|bar|restaurant|food|point_of_interest|establishment 
-4,Athens Atrium Hotel,lodging|restaurant|food|point_of_interest|establishment 
-5,NJV Athens Plaza,cafe|lodging|bar|restaurant|food|point_of_interest|establishment 
-6,Savoy Hotel,lodging|bar|restaurant|food|point_of_interest|establishment 
-7,21 Restaurant,restaurant|lodging|food|point_of_interest|establishment 
-8,FAROS HOTEL ΠΑΜΠΟΡΗΣ ΧΡΗΣΤΟΣ & ΣΙΑ Ε.Ε,lodging|restaurant|food|point_of_interest|establishment 
-9,Στυλ,cafe|restaurant|food|point_of_interest|store|establishment 
-10,Οινοσχολείο - Μουσικό Μεζεδοπωλείο - Ζωντανή Μουσική,restaurant|food|point_of_interest|establishment 
-11,Eridanus Hotel,restaurant|food|point_of_interest|establishment 
-12,Cafe Boheme,restaurant|cafe|food|point_of_interest|establishment 
-13,ΕΣΤΙΑΤΟΡΙΟ ΔΑΦΝΕΣ,restaurant|food|point_of_interest|establishment 
-14,Τα Πέντε Πιάτα,restaurant|food|point_of_interest|establishment 
-15,El Convento,restaurant|food|point_of_interest|establishment 
-16,BRASSERIE ΒΑΛΑΩΡΙΤΟΥ Α.Ε.,restaurant|food|point_of_interest|establishment 
-17,Εστιατόριο Αθήρι,restaurant|food|point_of_interest|establishment 
-18,Piu Verde,cafe|bar|restaurant|food|point_of_interest|establishment 
-19,Ναυτικός Όμιλος Αλίμου,restaurant|food|point_of_interest|establishment 
-20,Eleas Gi,restaurant|food|point_of_interest|establishment 
-21,tavern Jordan,restaurant|food|point_of_interest|establishment 
-22,V1935 Luxurious Apartments,cafe|lodging|restaurant|food|point_of_interest|establishment 
-23,TGI Fridays,restaurant|food|point_of_interest|establishment 
-24,Υάδες,cafe|restaurant|food|point_of_interest|establishment 
-25,Only1 Cafe,cafe|meal_delivery|meal_takeaway|restaurant|food|point_of_interest|store|establishment 
-26,Σκόλιον - Skolion,restaurant|food|point_of_interest|establishment 
-27,Pizzeria Romas,restaurant|food|point_of_interest|establishment 
-28,Piggy - Πόπουλο,meal_takeaway|restaurant|food|point_of_interest|establishment 
+placeId,title,tags,description
+0,Meliá Athens,lodging|restaurant|food|point_of_interest|establishment,Meliá Athens facilities cover all our guests’ needs from dining experiences to wellness treatments. Savour traditional Greek flavours mingled with Mediterranean tastes to create ‘Balance’ in our hotel restaurants. All the 136 newly refurbished rooms are well appointed and offer a symphony of elegant furnishings and state-of-the-art technology. Refresh yourself and wash away your stress in the privacy of your spa-bathtub or de-stress in the hotel sauna and hamam. Stay fit in our modern and fully equipped Health Club. During the warmest months of the year enjoy the sunshine from the highest floor and take in the stunning views of the Acropolis while sipping your favorite drink prepared by our cocktail team.
+1,POSEIDON ATHENS HOTEL,lodging|restaurant|food|point_of_interest|establishment,Poseidon Athens Hotel provides the ultimate destination for holidays in the Greek capital. Away from the hustle and bustle of the city center and with incomparable connectivity to all the major sights and attractions in Athens our hotel boasts a privileged location and can serve the needs of families couples and parties of friends adventurers and business people from all over the world. Even on a tight schedule you may explore Athens to the fullest with the help of the specific location of Poseidon Athens Hotel and thanks to the superb access to all means of transportation. Just a breath away there is the Tram and a bus station for you to hop on and start discovering the hidden gems of Athens.
+2,Radisson Blu Park Hotel Athens,lodging|bar|restaurant|food|gym|health|point_of_interest|establishment, The Radisson Blu Park Hotel Athens places you right in the center of Athens. Our conveniently located Athens hotel sits at the edge of Pedion tou Areos one of the city's largest parks and is only a short stroll from the National Archeological Museum. Discover the city's vibrant atmosphere and immense history right on your doorstep. Enjoy comfortable and contemporary style in all 160 rooms and suites at our Athens hotel where free high-speed Wi-Fi marble bathrooms and individual climate control come as standard. Maintain your fitness routine or relax after a busy day at our in-house fitness center complete with sauna and steam room. Bask in the sunshine—with fabulous views of the city and its many architectural gems—by our stunning rooftop pool.
+3,The Athenian Callirhoe Exclusive Hotel,cafe|lodging|bar|restaurant|food|point_of_interest|establishment, A unique 4 star superior Boutique Hotel in the heart of Athens City where style and comfort are happily coupled to offer a pleasant stay with the finest accommodation and delightful culinary experiences. At Athenian Callirhoe hotel one of the most well-known hotels in Athens you will discover a distinctive building with elegant urban interior design enjoy the very best in luxury and service while being spoiled with the 'little things' a guest needs to make one feel at home. Visit our roof garden restaurant “Callirhoe VIP” to savour refreshing cocktails and delicious cuisine creations enjoying the breathtaking view of both Acropolis and Lycabettus hill.
+4,Athens Atrium Hotel,lodging|restaurant|food|point_of_interest|establishment, Known for its comfort personal service and classic elegance Athens Atrium Hotel & Jacuzzi Suites is one of the most promising 4 star hotels in Athens. Athens Atrium Hotel & Jacuzzi Suites offers both affordable luxury and convenience from its quiet location only minutes away from the heart of Athens busy city centre. Athens Atrium Hotel & Jacuzzi Suites features 56 spacious guest rooms and bathrooms that combine warmth style elegance and the latest technology. These details transform Athens Atrium into an ideal place; both for leisure and business travellers.
+5,NJV Athens Plaza,cafe|lodging|bar|restaurant|food|point_of_interest|establishment, As one of the top luxury hotels in Athens our property features 162 guest rooms and 18 elegant suites that are tastefully decorated with modern touches and include first-class amenities. The NJV Athens Plaza Hotel aims to satisfy every guest including our guests traveling on business. Our meeting and event facilities are spacious and can hold up to 350 people while our state-of-the-art equipment allows for a successful conference special event board meeting or business luncheon.At the NJV Athens Plaza you can expect nothing but the best. Visit us and “Live the absolute experience for absolute moments!”
+6,Savoy Hotel,lodging|bar|restaurant|food|point_of_interest|establishment, This unpretentious hotel is 2 km from the Port of Piraeus a 3-minute walk from the Archaeological Museum of Piraeus and 1 km from the Maritime Museum of Greece.The simple rooms have traditional décor free Wi-Fi flat-screen TVs and minibars and some have balconies. Suites have extra spa baths with tea and coffee making facilities. Room service is available.Free amenities include parking and a buffet breakfast. There is also a lobby bar and a quaint restaurant as well as a meeting room.
+7,21 Restaurant,restaurant|lodging|food|point_of_interest|establishment, Situated on the ground floor of TWENTYONE hotel with a separate entrance 21 is a bar-restaurant that has become quite a hit with the hip crowd while still tapping to the sophisticated gourmets. The menu sets the mood for international cuisine touched with a flavor of Italian and Greek. Delicious cocktails served at the bar make a big splash.Guests can enjoy breakfast and dinner indoors or outdoors in the summer months.
+8,FAROS HOTEL ΠΑΜΠΟΡΗΣ ΧΡΗΣΤΟΣ & ΣΙΑ Ε.Ε,lodging|restaurant|food|point_of_interest|establishment, The rooms have air conditioning and a bathroom. The rooms have a double bed for a good night's sleep. In addition there is a minibar. Great holiday comfort offers internet access a telephone and WiFi. There is a shower inside the bathrooms.The hotel has 44 rooms. The individual floors are easily accessible by elevator or by stairs. The equipment includes a luggage storage a cafeteria a bar and a room service. The wireless local area network in the common areas enables the customers to communicate with their own.
+9,Στυλ,cafe|restaurant|food|point_of_interest|store|establishment, 
+10,Οινοσχολείο - Μουσικό Μεζεδοπωλείο - Ζωντανή Μουσική,restaurant|food|point_of_interest|establishment, THE MOST FUN MUSIC TAVERN SHOP! NEVER THE ENTERTAINMENT WAS SO SUFFICIENT! Its name is not accidental. Years ago it was a school. It is a 100-year-old stone building that has been operating for the last 20 years. "It exudes warmth and is addressed to people with passion and opinion. The music is live and you will listen to old and new folk songs with the result that in the early morning hours the WINE SCHOOL is transformed into a school of dance fun and entertainment.
+11,Eridanus Hotel,restaurant|food|point_of_interest|establishment, 
+12,Cafe Boheme,restaurant|cafe|food|point_of_interest|establishment, Bistro style restaurant/bar serving food that embodies the best of the Mediterranean. and beyond! A selection of fine Greek wines are available to accompany your food. The cozy and relaxed atmosphere make Boheme ideal for every rendezvous throughout the day or night. A favorite with the locals it has a rocking bar great for afterwork drinks and in the evenings the best DJ's in town set the mood
+13,ΕΣΤΙΑΤΟΡΙΟ ΔΑΦΝΕΣ,restaurant|food|point_of_interest|establishment , Daphne's is a classic in every sense of the word located in Plaka and the preferred destination of visiting public figures from the international political scene and business world. Major tourist agencies throughout the world regularly recommend Daphne's as one of the top choices for Greek gourmet cuisine. Daphne's has had truly select customers over the years and has been chosen to host meals for political leaders such as Bill and Hilary Clinton. The cuisine has a Mediterranean accent with a touch of creativity: classic starters as well as meat and fish dishes with a nouvelle touch resulting in a truly impressive gastronomical experience
+14,Τα Πέντε Πιάτα,restaurant|food|point_of_interest|establishment, restaurant|food|point_of_interest|establishment
+15,El Convento,restaurant|food|point_of_interest|establishment, The restaurant El Convento Del Arte in Metaxourgeio is a special place with Mediterranean cuisine. It is a hangout for artists and people who love art and good food. At El Convento Del Arte enjoy unique evenings of taste and entertainment with theatrical or live music acrobatics and other events that accompany your food or drink. Bright red classic furniture chandeliers and atmospheric decoration reminiscent of Baroque create a space that looks like it came out of a movie. At El Convento Del Arte you will taste ravioli stuffed with beef tail risotto with a variety of forest mushrooms chicken breast cooked in a crust of prosciutto and aromatic pendants
+16,BRASSERIE ΒΑΛΑΩΡΙΤΟΥ Α.Ε.,restaurant|food|point_of_interest|establishment,  
+17,Εστιατόριο Αθήρι,restaurant|food|point_of_interest|establishment, Athiri restaurant first opened in 2004 by chef Alexandros Kardasis in Korydallos while in october 2007 it moved to Kerameikos at the old neoclassical home on Plataion street with its full-of-green yard. The restaurant's philosophy is based on creativity which combines greek/Mediterranean tradition with modern progress and perspective
+18,Piu Verde,cafe|bar|restaurant|food|point_of_interest|establishment, In the Papagos Grove only ten minutes from the center of Athens in an idyllic location full of pines artificial lake and running water that really makes you get away from everything you are used to so far. Here you can enjoy your coffee food and drink in the enchanting aura of the special landscape.
+19,Ναυτικός Όμιλος Αλίμου,restaurant|food|point_of_interest|establishment,  
+20,Eleas Gi,restaurant|food|point_of_interest|establishment, 
+21,tavern Jordan,restaurant|food|point_of_interest|establishment,  The host was able to get a table for us quickly. That was very important as we had been traveling for nearly 20 hours. Live local music that still allowed for conversation.We had stuffed vine leaves outstanding and fried cheese with honey which was equally tasty and outstanding.Service was good and quick. No one rushed us and the trio who were the live band never took a break so the entertainment was more than my normal experience.Seemed to be a safe neighborhood as we walked back late.
+22,V1935 Luxurious Apartments,cafe|lodging|restaurant|food|point_of_interest|establishment, 
+23,TGI Fridays,restaurant|food|point_of_interest|establishment, 
+24,Υάδες,cafe|restaurant|food|point_of_interest|establishment, 
+25,Only1 Cafe,cafe|meal_delivery|meal_takeaway|restaurant|food|point_of_interest|store|establishment, 
+26,Σκόλιον - Skolion,restaurant|food|point_of_interest|establishment, 
+27,Pizzeria Romas,restaurant|food|point_of_interest|establishment, 
+28,Piggy - Πόπουλο,meal_takeaway|restaurant|food|point_of_interest|establishment, 
 29,Saloon Piano Restaurant,restaurant|food|point_of_interest|establishment 
 30,Athens Bar Crawl,bar|restaurant|food|point_of_interest|establishment 
 31,nice n easy,cafe|bar|restaurant|food|point_of_interest|establishment 
 32,Oinopoleion,restaurant|park|liquor_store|food|point_of_interest|store|establishment 
-33,Το Κονάκι  Ταβέρνα,restaurant|food|point_of_interest|establishment 
+33,Το Κονάκι  Ταβέρνα,restaurant|food|point_of_interest|establishment, Konaki is a place that as its name suggests we want to become your hangout or your koutoukaki as some others say. So we created a beautiful place to offer wonderful traditional flavors good wine and a pleasant atmosphere to you your company and your family. We are waiting for you!
 34,shopping house,shopping_mall|department_store|restaurant|food|point_of_interest|clothing_store|store|establishment 
 35,beertime,bar|restaurant|food|point_of_interest|establishment 
-36,Archontiko,restaurant|food|point_of_interest|establishment 
+36,Archontiko,restaurant|food|point_of_interest|establishment, Greek traditional cuisine served in a cosy-interesting space at Marousi or delivered at your door at reasonable prices.
 37,TGI Fridays,restaurant|food|point_of_interest|establishment 
 38,Θέατρο Τρένο Στο Ρουφ,cafe|bar|restaurant|food|point_of_interest|establishment 
-39,Jimmy's Coffee Shop,cafe|restaurant|food|point_of_interest|establishment 
+39,Jimmy's Coffee Shop,cafe|restaurant|food|point_of_interest|establishment, Since 1981 we have been building strong bonds with our customers and we continue to take care of their every pleasure.Our love for quality coffee and the high quality of services in restaurants created the need for us to offer the Athenian public a place where they can enjoy their coffee and food on the most famous pedestrian street in the city.
 40,Μπακαράτ,bar|point_of_interest|establishment 
-41,Κραντζ,bar|point_of_interest|establishment 
+41,Κραντζ,bar|point_of_interest|establishment, bar|point_of_interest|establishment  
 42,FEVER G,night_club|bar|point_of_interest|establishment 
-43,Gazarte,movie_theater|tourist_attraction|book_store|bar|point_of_interest|store|establishment 
+43,Gazarte,movie_theater|tourist_attraction|book_store|bar|point_of_interest|store|establishment, With our team we share the same values the same ambitions and the same dreams. With a common vision consistency and dedication we all work to create a cultural center that allows artists to realize their vision and offers visitors a unique artistic program high quality services and unforgettable experiences.
 44,Cabaret Voltaire,bar|point_of_interest|establishment 
 45,Ιπποπόταμος,bar|point_of_interest|establishment 
 46,ΑΓΚΥΡΑ Δ. Α. ΠΑΠΑΔΗΜΗΤΡΙΟΥ Α.Β.Ε.Ε.,night_club|bar|point_of_interest|establishment 
@@ -50,19 +50,19 @@ placeId,title,tags
 48,ΤΟ ΤΡΙΚΥΚΛΟ ΚΑΦΕ-ΜΕΖΕΔΟΠΩΛΕΙΟ-TO TRIKYKLO,cafe|bar|restaurant|food|point_of_interest|establishment 
 49,The Drugstore 1,bar|restaurant|food|point_of_interest|establishment 
 50,HOXTON,bar|cafe|food|point_of_interest|establishment 
-51,RAKOMELO - ΤΟ ΡΑΚΟΜΕΛΟ,bar|cafe|food|point_of_interest|establishment 
-52,Saint George Bar,bar|point_of_interest|establishment 
-53,Κρασοπενιές Summer - Μουσικό Μεζεδοπωλείο,bar|restaurant|food|point_of_interest|establishment 
-54,Litharia,bar|restaurant|food|point_of_interest|establishment 
-55,O&B Athens All Day Bar Restaurant,restaurant|cafe|bar|food|point_of_interest|store|establishment 
-56,Kibubu Music Bar,bar|point_of_interest|establishment 
-57,EXCALIBUR BAR,bar|night_club|point_of_interest|establishment 
+51,RAKOMELO - ΤΟ ΡΑΚΟΜΕΛΟ,bar|cafe|food|point_of_interest|establishment,Rakomelo was born in Ilioupoli in a stone house of '29 in December 2006. Colorful and aromatic artistic hangout with a capacity of 50-60 people who loves traditional spirits fusion Greek cuisine based on rakomelo Greek and world quality music
+52,Saint George Bar,bar|point_of_interest|establishment,In the beautiful square in Athens next to the church of Agios Georgios ... nice decoration awesome music. As long as the weather allows sit outside comfortably and enjoy your drink
+53,Κρασοπενιές Summer - Μουσικό Μεζεδοπωλείο,bar|restaurant|food|point_of_interest|establishment,Gastronomic feast !! Greek cuisine appetizers dishes dishes carefully executed sweets for all tastes. If you still want to drink your drink and have fun you are also welcome.
+54,Litharia,bar|restaurant|food|point_of_interest|establishment,An atmospheric Brewery that concentrates the charm of an old stone house of 1927. The stone the wood the earth tones warm the space and create a friendly elegant environment that inspires. bison ginger with Madagascar green pepper and delicious pork shank that melts in your mouth. Continue your delicious enjoyment with ostrich fillets grilled wild boar fillet with mushrooms and bacon or turkey steaks marinated in lemon oil. In summer tables come out in the green cool.
+55,O&B Athens All Day Bar Restaurant,restaurant|cafe|bar|food|point_of_interest|store|establishment,In the heart of a city full of life in one of its most "interesting" neighborhoods the O&B Athens All Day Bar Restaurant invites and challenges the residents and visitors of Athens to taste its special flavors. The atmospheric lighting the refined decoration the special environment and the friendly service make the O&B a unique choice for your meal and drink. Separate dishes created with high quality ingredients paired with carefully selected wines and drinks. Greek traditional flavors are redefined in the light of modern cooking and are presented to friends of good food always with a high level
+56,Kibubu Music Bar,bar|point_of_interest|establishment,From the moment you enter the entrance of Kibubu Music Bar one thing is necessary: ​​to leave your senses free and enjoy the music choices of the DJ the delicious cocktails of the bar and the hospitable service that will make you visit this unique place again and again.
+57,EXCALIBUR BAR,bar|night_club|point_of_interest|establishment
 58,Elaea Mezedadiko,cafe|bar|restaurant|food|point_of_interest|store|establishment 
-59,TALL'S TOY,bar|cafe|food|point_of_interest|establishment 
-60,BEER GARDEN RITTERBURG,bar|restaurant|food|point_of_interest|establishment 
-61,EN FLYA,bar|cafe|food|point_of_interest|store|establishment 
-62,ROCKWOOD,bar|point_of_interest|establishment 
-63,Silly Wizards Pub,bar|liquor_store|restaurant|food|point_of_interest|store|establishment 
+59,TALL'S TOY,bar|cafe|food|point_of_interest|establishment,The "tall" of Karytsi spreads his toys in one of the most historic galleries of the old commercial triangle creating one of the most cozy urban atmospheres of the center. Full of warmth well-made coffee hot chocolates and healing herbs.
+60,BEER GARDEN RITTERBURG,bar|restaurant|food|point_of_interest|establishment,Stone and light wood in a classic style with some traditional touches but not a particularly heavy space that has been representing German (mainly Bavarian) cuisine in Athens for years turning here and there to Austria. Kasslerbraten pork schnitzel and not only come in large portions while there are also plates / varieties to accompany your beer.
+61,EN FLYA,bar|cafe|food|point_of_interest|store|establishment,All day bar that in addition to coffee juices and drinks offers salads of all kinds (excluding those of fruit) and gourmet dishes with pure ingredients to accompany the beer or tsipouro. In general food pairing is sought after and very careful even for whiskey there is the appropriate meze in order to "tie" harmoniously with its taste. 
+62,ROCKWOOD,bar|point_of_interest|establishment,A small treasure in the heart of Athens! A beautiful and cozy place a classic hangout of Athenians for eating coffee beer or a drink next to the Archaeological Museum and just 5 minutes from the Victoria power station
+63,Silly Wizards Pub,bar|liquor_store|restaurant|food|point_of_interest|store|establishment,Silly Wizards is at the top of the pantheon of domestic pubs - not only because it was one of the first nor because its range will satisfy even the most demanding beer lover - but because it managed to create its own legend because people have fallen in love there because it has hosted subversively wedding tables (with guiness stew for mainly!) because it always stays up to date because it is timelessly cool. Because the hospitality here experiences an ideal version and because it promotes decompression relaxation breaks from everyday life and all kinds of friendly gatherings in one of the most intimate places in Athens. From the hottest
 64,My Friends Cafe,cafe|bar|food|point_of_interest|store|establishment 
 65,GhostHouse,night_club|bar|point_of_interest|establishment 
 66,A LIAR MAN,bar|point_of_interest|establishment 
@@ -122,10 +122,10 @@ placeId,title,tags
 120,Senso Cafe,cafe|restaurant|food|point_of_interest|establishment 
 121,Athinaikon,cafe|restaurant|food|point_of_interest|store|establishment 
 122,Palazzo Cafe,cafe|meal_delivery|meal_takeaway|restaurant|food|point_of_interest|store|establishment 
-123,Leonida's cafe,cafe|food|point_of_interest|establishment 
+ ,Leonida's cafe,cafe|food|point_of_interest|establishment 
 124,Cafe - Bar Mosquito,cafe|food|point_of_interest|establishment 
 125,GREGORY MIKROGEVMATA,cafe|restaurant|food|point_of_interest|establishment 
 126,yassou cafe,cafe|food|point_of_interest|establishment 
 127,Moreno,cafe|food|point_of_interest|store|establishment 
 128,Yard Bistrot and Bar,Athens,restaurant|meal_takeaway|cafe|food|point_of_interest|store|establishment 
-129,Maiandros restaurant,cafe|restaurant|food|point_of_interest|establishment 
+129,Maiandros restaurant,cafe|restaurant|food|point_of_interest|establishment, From early in the morning we are waiting for you to drink your coffee accompanying it with one of our homemade-traditional sweets.Later you can choose between our delicious varieties our daily cooked meals and the wide range of main and side dishes made with homemade recipes and ingredients that are distinguished for their purity and quality.So in the heart of Athens and just behind the ISAP-METRO station in Monastiraki there is the "STATION" of taste enjoyment and quality.

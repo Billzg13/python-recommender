@@ -7,3 +7,8 @@ requests
 pandas
 sklearn
 numpy
+seaborn
+nltk
+plotly
+chart_studio
+cufflinks

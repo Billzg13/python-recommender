@@ -9,6 +9,8 @@ import src.util.recommender_wrapper as recommender
 import logging
 logger = logging.getLogger(__name__)
 
+COLLABORATIVE_TYPE = 'collaborative'
+CONTENT_TYPE = 'content'
 # print(__name__)
 
 
@@ -16,7 +18,10 @@ class quick_search_controller(Resource):
     def post(self):
         print('in quick search')
         json_data = request.get_json(force=True)
-        data_places = recommender.recommend(json_data)
+        if json_data['type'] == COLLABORATIVE_TYPE:
+            data_places = recommender.recommend_collaborative(json_data)
+        else: 
+            data_places = recommender.recommend_content_based(json_data)
         logger.debug("In action: post quick search controller")
         return {"result": data_places}
 
