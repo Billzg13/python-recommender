@@ -103,4 +103,29 @@ def recommendations(name, cosine_similarities = cosine_similarities):
         
     return recommended_hotels
 
-print(recommendations('Silly Wizards Pub'))
+def predict(name, cosine_similarities=cosine_similarities):
+    recommended_places = []
+
+    # gettin the index of the hotel that matches the name
+    try:
+        idx = indices[indices == name].index[0]
+
+        # creating a Series with the similarity scores in descending order
+        score_series = pd.Series(
+            cosine_similarities[idx]).sort_values(ascending=False)
+        
+        # getting the indexes of the 10 most similar hotels except itself
+        top_10_indexes = list(score_series.iloc[1:11].index)
+        # populating the list with the names of the top 10 matching hotels
+        for (i, score) in zip(top_10_indexes, score_series):
+            recommended_places.append({
+                "title": list(df.index)[i],
+                "correlation": score
+            })
+    except:
+        print('Something went wrong')
+    finally:
+        return recommended_places
+
+
+]

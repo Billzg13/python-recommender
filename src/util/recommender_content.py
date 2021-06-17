@@ -79,6 +79,6 @@ def predict(name, cosine_similarities=cosine_similarities):
                 "correlation": score
             })
     except:
-        print('yea error')
+        print('Something went wrong')
     finally:
         return recommended_places
