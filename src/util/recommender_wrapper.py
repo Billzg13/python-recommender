@@ -44,6 +44,6 @@ def recommend_content_based(json_data):
                     'placeId': 9999,
                     'correlationWith': place['placeId']
                 })
-                blacklisted_places.append(item)
+                blacklisted_places.append(item['title'])
     return result
 
